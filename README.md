@@ -48,11 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyak-29&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=shreyak-29&theme=shadow_blue&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyak-29&theme=shadow_blue&hide_border=false&layout=compact)
 
 
 ---
